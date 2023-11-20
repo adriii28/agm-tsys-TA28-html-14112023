@@ -12,5 +12,5 @@
 [EJ 5 ](https://adriii28.github.io/agm-tsys-TA28-html-14112023/Ej3/postresemana.html)
 
 ## Ejercicio 6-10
-[EJ 6-10 ](https://adriii28.github.io/agm-tsys-TA28-html-14112023/ParqueNatural/index.htmll)
+[EJ 6-10 ](https://adriii28.github.io/agm-tsys-TA28-html-14112023/ParqueNatural/index.html)
 
