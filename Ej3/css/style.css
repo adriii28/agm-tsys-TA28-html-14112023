@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+
+h1, h2, h3, p, li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: burlywood;
+    color: grey;
+    font-size: x-large;
+}
+
+h2 {
+    color: #758ead;
+    font-size: xx-large;
+}
+
+span {
+    color: #758ead;
+}
+
+h3 {
+    color: #3f679b;
+}
+
+ul {
+    list-style: none;
+}

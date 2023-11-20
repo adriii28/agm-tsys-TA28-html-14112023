@@ -1,0 +1,11 @@
+body {
+    background-color: #8ac4cb;
+}
+
+h2, h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2, h1, p ,li{
+    color: #15245d;
+}
